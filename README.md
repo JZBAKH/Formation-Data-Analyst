@@ -30,8 +30,6 @@ Vue d'ensemble des technologies mobilisées sur l'ensemble des projets du parcou
 
 ---
 
-## 🚀 Portfolio & Projets
-
 ### 🔹 [Projet 13 : Portfolio professionnel et candidature Aéroworld](./Projet_13_Creez_votre_portfolio_de_professionnel_de_la_data/)
 * **Compétences :** **Power BI**, **Gestion de projet**, **Cahier des charges**, **GitHub**
 * **Mission :** Conception d'un portfolio en ligne et candidature stratégique. Tableaux de bord de veille technologique et profil interactif, documentation technique et déploiement.
